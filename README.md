@@ -1,2 +1,2 @@
-# asd
-type shit
+# functions
+because github needs stats
